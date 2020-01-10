@@ -1,7 +1,7 @@
 import React,{useEffect,useState} from 'react';
 function Main()
 {
-  const auth_token = 'Bearer BQALwk2Odaby0MoBagxWLbScVYr4hBc-Dorkqmj0wOFRO7fvkV63WaexCjRfv8Izrhq-CBAP1ZnWEMxrbWbbWgCX_aNOML9pCUhGyL-C8rCYRWvnfPsnsq1JciUXk1cPC0UeonnrTALVSNLG4MgI2ApL82e6q4tXFD_b2UGpQEVcFlYwz5V6NnYnqDCMmssDOjzeB6M2ER-Vh486Fq_j7FoJg9yTuy_5kLDAeaVg4f1rckASa7_8 ';
+  const auth_token = 'Bearer BQDT7PpempOcfpBhgQkTsJGXJjiWw2N0z6jiknmXf_6v8dP_X9sE1vblx6rvDqj8fHp3YifCEPqTIZP887yqY__Z81gPp9h7nnzTH0ImMm-cgp7XwjflM7ltomR4wdc_wbCtdf55t2WGlmR_aIKQSiCIoacC8xi0AZyKaqwrx6gcSMAPTVhhPVpN4_UrDF6MPkfKNRkpkEGKj-N38TllVScOPym3k3YrGx9ZZ64nNwid85H3hneG ';
   const [Query, setQuery] = useState('');
   const [artists, setartists] = useState([]);
   
