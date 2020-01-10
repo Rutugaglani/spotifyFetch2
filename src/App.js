@@ -18,3 +18,4 @@ class App extends Component
     }
 }
 export default App;
+// https://developer.spotify.com/console/get-search-item/?q=tania+bowra&type=artist
